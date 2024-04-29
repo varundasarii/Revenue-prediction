@@ -1,2 +1,1 @@
-# Sysco Revenue-prediction
-Revenue prediction model build with  Random forest
+Advanced Predictive Modelling for Market Trend Analysis and Logistics Improvement
